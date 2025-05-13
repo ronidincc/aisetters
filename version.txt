@@ -1,2 +1,2 @@
-1.0.1
-https://github.com/ronidincc/aisetters/releases/download/v1.0.1/thedincz.ai.rar
+1.0.0
+https://github.com/ronidincc/aisetters/releases/download/v1.0.0/thedincz.ai.rar
