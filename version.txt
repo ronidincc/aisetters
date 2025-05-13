@@ -1,2 +1,2 @@
-1.0.6
-https://github.com/ronidincc/aisetters/releases/download/v1.0.6/aisetters.exe
+1.0.0
+https://github.com/ronidincc/aisetters/releases/download/v1.0.0/aisetters.exe
